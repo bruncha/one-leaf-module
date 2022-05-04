@@ -1,0 +1,11 @@
+#MainTable{
+    border: 2px;
+    border-style: dashed;
+    border-color: forestgreen;
+
+    background-color: aquamarine;
+    width: 400px;
+    height: 260px;
+    font-size: 25px;
+
+}

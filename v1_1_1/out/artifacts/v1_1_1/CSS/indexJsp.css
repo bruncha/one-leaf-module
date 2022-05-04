@@ -1,0 +1,33 @@
+#MainH1_1{
+    /*- 设置“OneLeafModule”字体 -*/
+    text-align: center;
+    font-style: normal;
+    font-family: "Edwardian Script ITC";
+    font-size: 60px;
+}
+#MainH1_2{
+    /*- 设置“一叶模块”字体 -*/
+    text-align: center;
+    font-size: 40px;
+    font-family: "微软雅黑 Light";
+    color: forestgreen;
+}
+#MainTable{
+    /*- 设置MainTable边框 -*/
+    border: 2px;
+    border-style: dashed;
+    border-color: forestgreen;
+    /*- 设置MainTable背景色、字体 -*/
+    background-color: aquamarine;
+    font-size: 25px;
+}
+#MainTable td{
+    /*- 指定表格列宽、列高 -*/
+    width: 400px;
+    height: 260px;
+}
+#Insert-Module{
+    /*- 设置“添加模块...”的背景色&边框色 -*/
+    border-color: blueviolet;
+    background-color: mediumpurple;
+}
