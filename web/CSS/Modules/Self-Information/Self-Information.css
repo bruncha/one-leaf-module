@@ -1,0 +1,15 @@
+.Self-Information-Maintable{
+    /*- 设置Self-Information-MainTable背景色、字体 -*/
+    background-color: lightcyan;
+    font-size: 25px;
+}
+.Self-Information-Maintable td{
+     /*- 指定表格列宽 -*/
+     width: 400px;
+ }
+#Self-Information-return{
+    /*- 添加背景色 -*/
+    background-color: aliceblue;
+    /*- 设置“返回首页”字号 -*/
+    font-size: large;
+}
